@@ -32,7 +32,7 @@ jobs:
       with:
         azcliversion: 2.0.72
         inlineScript: |
-          az cdn endpoint purge --content-paths  "/*" --profile-name "castleacre" --name "castleacre.azureedge.net" --resource-group "CastleAcre"
+          az cdn endpoint purge --content-paths  "/*" --profile-name "castleacre" --name "castleacre" --resource-group "CastleAcre"
         
 # Azure logout 
     - name: logout
