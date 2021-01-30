@@ -1,0 +1,3 @@
+Sitemap: https://www.castleacregardening.co.uk/sitemap.xml
+User-agent: * 
+Disallow: 
